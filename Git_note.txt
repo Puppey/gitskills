@@ -1,9 +1,0 @@
-git init - 初始化仓库
-git config --global user.name
-git config --global user.email  配置名字和email
-
-git add -文件增加到git里
-git commit -m ""  - 提交到本地仓库
-
-git status 查看状态
-git diff 查看区别
